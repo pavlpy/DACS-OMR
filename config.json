@@ -1,0 +1,7 @@
+{
+    "base_repo": {
+        "pkglist": "https://raw.githubusercontent.com/pavlpy/DACS-OMR/refs/heads/main/list.json",
+        "libraries": "https://raw.githubusercontent.com/pavlpy/DACS-OMR/refs/heads/main/libs/",
+        "modules": "https://raw.githubusercontent.com/pavlpy/DACS-OMR/refs/heads/main/packs/"
+    }
+}
